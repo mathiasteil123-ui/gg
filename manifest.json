@@ -1,0 +1,20 @@
+{
+  "name": "PantryIQ — Smart Kitchen",
+  "short_name": "PantryIQ",
+  "description": "Track your kitchen inventory, plan meals, manage shopping and stay on budget.",
+  "lang": "da",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#09090f",
+  "theme_color": "#09090f",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
